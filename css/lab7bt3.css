@@ -1,0 +1,60 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+    text-align: 40px;
+}
+.container{
+    margin: 0 auto;
+}
+.banner{
+    min-height: 300px;
+    background-color: rgb(19, 170, 170);
+    margin-top: 15px;
+    margin-bottom: 5px;
+    position: relative;
+}
+.menu{
+    min-height: 50px;
+    background-color: blanchedalmond;
+}
+.content-left{
+    width: 75%;
+    min-height: 400px;
+    background-color: whitesmoke;
+    float: left;
+    margin-bottom: 5px;
+    padding-left: 0px;
+}
+.content-right{
+    width: 25%;
+    min-height: 400px;
+    background-color: blanchedalmond;
+    float: right;
+    margin-bottom: 5px;
+}
+.top-menu{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: blue;
+    border-bottom-left-radius: 30px;
+    padding: 10px 15px 10px 20px; 
+}
+.top-menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-variant: small-caps;
+    font-weight: bolder;
+}
+
+.footer{
+    border-top: 5px double blue;
+    line-height: 50px;
+    background-color: lightcyan;
+    text-align: left 20px;
+    font-variant: small-caps;
+    clear: both;
+    min-height: 40px;
+    padding-left: 50px;
+}
